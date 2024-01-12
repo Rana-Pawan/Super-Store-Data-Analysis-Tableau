@@ -1,1 +1,2 @@
 # Super-Store-Data-Analysis-Tableau
+This project involves hands-on exploration of a Sample Superstore dataset, tackling 30 scenario-based questions using data visualization and analysis. The aim is to adeptly choose the optimal chart for each question and elucidate the reasoning behind those choices. The outcome of this project will spotlight my proficiency in data visualization, critical thinking, and the ability to convey complex ideas effectively.![Uploading image.png…]()
